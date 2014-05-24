@@ -1,0 +1,15 @@
+C:\Users\netcast5e3\Desktop\svns\archeage_emu\trunk\ArcheAgeLogin\obj\Debug\ArcheAgeLogin.exe
+C:\Users\netcast5e3\Desktop\svns\archeage_emu\trunk\ArcheAgeLogin\obj\Debug\ArcheAgeLogin.pdb
+C:\Users\netcast5e3\Desktop\svns\archeage_emu\trunk\ArcheAgeLogin\obj\Debug\ArcheAge Login Server.csprojResolveAssemblyReference.cache
+C:\Users\netcast5e3\Desktop\svns\archeage_emu\trunk\ArcheAgeLogin\bin\Debug\ArcheAgeLogin.exe
+C:\Users\netcast5e3\Desktop\svns\archeage_emu\trunk\ArcheAgeLogin\bin\Debug\ArcheAgeLogin.pdb
+C:\Users\netcast5e3\Desktop\svns\archeage_emu\trunk\ArcheAgeLogin\bin\Debug\LocalCommons.dll
+C:\Users\netcast5e3\Desktop\svns\archeage_emu\trunk\ArcheAgeLogin\bin\Debug\LocalCommons.pdb
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAgeLogin\obj\Debug\ArcheAgeLogin.exe
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAgeLogin\obj\Debug\ArcheAgeLogin.pdb
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAgeLogin\bin\Debug\ArcheAgeLogin.exe
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAgeLogin\bin\Debug\ArcheAgeLogin.pdb
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAgeLogin\bin\Debug\LocalCommons.dll
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAgeLogin\bin\Debug\LocalCommons.pdb
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAgeLogin\obj\Debug\ArcheAge Login Server.csprojResolveAssemblyReference.cache
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAgeLogin\bin\Debug\ArcheAgeLogin.exe.config

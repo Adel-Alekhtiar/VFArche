@@ -1,0 +1,7 @@
+<!-- Made By netcastiel -->
+<!-- This File Contains Information About Game Server -->
+<!-- All Servers Must Be Strictly In Order! Means - 1,2,3 ! Not 1,5,10 -->
+<servers>
+     <server Id="1" Name="ArcheAge 1" MaxPlayers="4000" password=""/>
+	 <server Id="2" Name="ArcheAge 2" MaxPlayers="4000" password=""/>
+</servers>

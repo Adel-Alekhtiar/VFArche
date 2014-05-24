@@ -1,0 +1,12 @@
+--------------------------------------------------------[ Assembly References ]
+31.05.2013 20:58 - ArcheAge Emu - Version 1.0, Build 4899.37756
+31.05.2013 20:58 - Main: Running On .NET Framework (C#) Version 4.0.30319
+31.05.2013 20:58 - For Stop Server With Data Saving Please Press Ctrl + C
+----------------------------------------------------------------[ Controllers ]
+31.05.2013 20:58 - Loaded From Servers.xml - 2 Game Servers
+----------------------------------------------------------------------[ MySQL ]
+31.05.2013 20:58 - Loaded 0 Accounts
+--------------------------------------------------------------------[ Network ]
+31.05.2013 20:58 - Installed GameConnection At 127.0.0.1:1231
+31.05.2013 20:58 - Installed ArcheAgeConnection At 127.0.0.1:1237
+31.05.2013 20:58 - ArcheAge Login Server Started In 0,36 sec.

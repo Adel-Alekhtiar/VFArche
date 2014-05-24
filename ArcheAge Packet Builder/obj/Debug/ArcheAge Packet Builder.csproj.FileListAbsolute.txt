@@ -1,0 +1,17 @@
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\bin\Debug\ArcheAge Packet Builder.exe.config
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\bin\Debug\ArcheAge Packet Builder.exe
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\bin\Debug\ArcheAge Packet Builder.pdb
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\bin\Debug\MahApps.Metro.dll
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\obj\Debug\ArcheAge Packet Builder.csprojResolveAssemblyReference.cache
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\obj\Debug\MainWindow.baml
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\obj\Debug\MainWindow.g.cs
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\obj\Debug\App.g.cs
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\obj\Debug\ArcheAge Packet Builder_MarkupCompile.cache
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\obj\Debug\ArcheAge Packet Builder.g.resources
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\obj\Debug\ArcheAge_Packet_Builder.Properties.Resources.resources
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\obj\Debug\ArcheAge Packet Builder.csproj.GenerateResource.Cache
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\obj\Debug\ArcheAge Packet Builder.exe
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\obj\Debug\ArcheAge Packet Builder.pdb
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\obj\Debug\DefinePacket.baml
+C:\Users\Raphail\Desktop\archeage_emu\trunk\ArcheAge Packet Builder\obj\Debug\DefinePacket.g.cs
